@@ -1,4 +1,8 @@
-# React Project with TypeScript
+# Find NPM Package
 
-# Functions
-- Search NPM packagaes with a keyword.
+# Description
+- Search NPM packagaes with a keyword
+- React Project with Typescript
+- React/redux
+
+
